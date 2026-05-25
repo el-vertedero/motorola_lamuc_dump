@@ -1,0 +1,26 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=motorola
+ro.product.system_ext.device=lamuc
+ro.product.system_ext.manufacturer=motorola
+ro.product.system_ext.model=moto g17
+ro.product.system_ext.name=lamuc_g
+ro.vendor.radio.imei.sv=
+ro.system_ext.build.date=Wed Apr  8 09:53:08 EDT 2026
+ro.system_ext.build.date.utc=1775656388
+ro.system_ext.build.fingerprint=motorola/lamuc_g/lamuc:15/VVTBS35.41-47-1/33151f:user/release-keys
+ro.system_ext.build.id=VVTBS35.41-47-1
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=33151f
+ro.system_ext.build.version.release=15
+ro.system_ext.build.version.release_or_codename=15
+ro.system_ext.build.version.sdk=35
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+ro.config.isolated_compilation_enabled=true
+# end of file
+
