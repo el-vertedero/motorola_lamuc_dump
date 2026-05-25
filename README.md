@@ -1,0 +1,14 @@
+# lamuc_g-user 15 VVTBS35.41-47-1 33151f release-keys
+- manufacturer: motorola
+- platform: mt6768
+- codename: lamuc
+- flavor: lamu_sys-user
+- release: 15
+- id: VVTBS35.41-47-1
+- incremental: 33151f
+- tags: release-keys
+- fingerprint: motorola/lamuc_g/lamuc:15/VVTBS35.41-47-1/33151f:user/release-keys
+- is_ab: true
+- brand: motorola
+- branch: lamuc_g-user-15-VVTBS35.41-47-1-33151f-release-keys
+- repo: motorola_lamuc_dump
