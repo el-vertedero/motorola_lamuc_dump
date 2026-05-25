@@ -1,0 +1,5 @@
+service vendor.mot.rpmb-hal-aidl /vendor/bin/hw/motorola.hardware.rpmb-service
+    class hal
+    user system
+    group system
+
